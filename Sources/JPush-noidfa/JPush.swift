@@ -1,5 +1,1 @@
-import Foundation
-
-public struct JPushNoIDFA {
-    public var text = "Hello, JPushNoIDFA!"
-}
+// 为了引入 JPush
